@@ -1,0 +1,16 @@
+Student Name   Total Number of classes taken   Class Number
+Student0                 0                    
+Student3                 0                    
+Student12                 1                     2
+Student6                 0                    
+Student5                 1                     1
+Student1                 2                     1 2
+Student10                 2                     1 2
+Student9                 0                    
+Student2                 0                    
+Student8                 0                    
+Student11                 0                    
+Student14                 0                    
+Student7                 0                    
+Student13                 0                    
+Student4                 0                    

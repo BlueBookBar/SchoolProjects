@@ -1,0 +1,11 @@
+CREATE DATABASE GreenWayDatabeseAYW;  
+USE GreenWayDatabeseAYW; 
+CREATE TABLE inventory (skuNumb VARCHAR(20) NOT NULL PRIMARY KEY, ItemName VARCHAR(30) NOT NULL, SellingPrice VARCHAR(7), BuyingPrice VARCHAR(7), Quantity VARCHAR(10)); 
+CREATE DATABASE GreenWayDatabeseAYW;  
+USE GreenWayDatabeseAYW; 
+CREATE TABLE inventory (skuNumb VARCHAR(20) NOT NULL PRIMARY KEY, ItemName VARCHAR(30) NOT NULL, SellingPrice VARCHAR(7), BuyingPrice VARCHAR(7), Quantity VARCHAR(10)); 
+CREATE DATABASE GreenWayDatabeseAYW;  
+CREATE DATABASE GreenWayDatabeseAYW;  
+CREATE DATABASE GreenWayDatabeseAYW;  
+CREATE DATABASE GreenWayDatabeseAYW;  
+CREATE DATABASE GreenWayDatabeseAYW;  

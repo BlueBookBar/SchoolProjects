@@ -1,0 +1,20 @@
+I have finished coding the insertion sort with linkedlist. Would you mind sending out the data file that
+you want us to include with our programs or should we just use a dummy data file?
+I have finished coding the insertion sort with linkedlist. Would you mind sending out the data file that
+you want us to include with our programs or should we just use a dummy data file?
+For the next project, and there after, when you  submit the source code by email, please also cc your
+source code to my TA's email address:
+For the next project, and there after, when you  submit the source code by email, please also cc your
+source code to my TA's email address:
+For the next project, and there after, when you  submit the source code by email, please also cc your
+source code to my TA's email address:
+If you did not cc to my TA when you submit your projects,
+Please resubmit it again. Thanks!
+If you did not cc to my TA when you submit your projects,
+Please resubmit it again. Thanks!
+If you did not cc to my TA when you submit your projects,
+Please resubmit it again. Thanks!
+Attached is the source code for my programs.
+Attached is the source code for my programs.
+Attached is the source code for my programs.
+

@@ -1,0 +1,14 @@
+CREATE DATABASE StudentsofthisInstance;
+USE StudentsofthisInstance;
+CREATE TABLE firstclass (firstname VARCHAR(30) NOT NULL, lastname VARCHAR(30) NOT NULL, ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY);
+DESCRIBE firstclass;
+CREATE DATABASE StudentsofthisInstanceA;
+USE StudentsofthisInstanceA;
+CREATE TABLE firstclass (firstname VARCHAR(30) NOT NULL, lastname VARCHAR(30) NOT NULL, ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY);
+DROP DATABASE IF EXISTS StudentsofthisInstanceA;
+DROP DATABASE IF EXISTS StudentsofthisInstance;
+DROP DATABASE IF EXISTS GreenWayDatabeseAYW;
+CREATE DATABASE GreenWayDatabeseAYW;  
+USE GreenWayDatabeseAYW;
+CREATE TABLE inventory (skuNumb VARCHAR(20) NOT NULL PRIMARY KEY, ItemName VARCHAR(30) NOT NULL, SellingPrice float(7), BuyingPrice float(7), Quantity INT(10), Sellers VARCHAR(30), Buyers VARCHAR(20)); 
+DROP DATABASE IF EXISTS GreenWayDatabeseAYW;

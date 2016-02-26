@@ -1,0 +1,6 @@
+Connecting to databases...	Time: 07/31/2015 12:02:05 PM
+Connection successful!	Time: 07/31/2015 12:02:05 PM
+Writing command.	Time: 07/31/2015 12:02:09 PM
+null
+Closing resources.	Time: 07/31/2015 12:02:13 PM
+Resources Closed.	Time: 07/31/2015 12:02:13 PM

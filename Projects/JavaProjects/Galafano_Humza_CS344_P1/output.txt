@@ -1,0 +1,168 @@
+[6968] Blue18: Attended  11:00AM-Parade,  and no shows
+[7005] Orange16: Attended  11:00AM-Parade,  and no shows
+[7083] Orange15: Attended  11:00AM-Parade,  and no shows
+[7368] Orange5: Attended  11:00AM-Parade,  and no shows
+[7407] Orange4: Attended  11:00AM-Parade,  and no shows
+[7447] Orange7: Attended  11:00AM-Parade,  and no shows
+[7487] Orange6: Attended  11:00AM-Parade,  and no shows
+[7529] Orange3: Attended  11:00AM-Parade,  and no shows
+[7565] Orange2: Attended  11:00AM-Parade,  and no shows
+[7606] Orange1: Attended  11:00AM-Parade,  and no shows
+[7685] Blue21: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7725] Blue17: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7765] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7806] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7847] Blue22: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7922] Blue19: Attended  11:00AM-Parade,  1:00PM-Parade,  and  11:45PM-Show, 
+[7983] Blue20: Attended  11:00AM-Parade,  1:00PM-Parade,  and  11:45PM-Show, 
+[8921] Orange12: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[8962] Orange14: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9003] Orange13: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9039] Orange10: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9078] Orange11: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9118] Orange9: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9157] Orange8: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[7002] Blue17: Attended  11:00AM-Parade,  and no shows
+[7043] Orange16: Attended  11:00AM-Parade,  and no shows
+[7087] Orange15: Attended  11:00AM-Parade,  and no shows
+[7432] Orange8: Attended  11:00AM-Parade,  and no shows
+[7477] Orange6: Attended  11:00AM-Parade,  and no shows
+[7519] Orange5: Attended  11:00AM-Parade,  and no shows
+[7559] Orange4: Attended  11:00AM-Parade,  and no shows
+[7602] Orange3: Attended  11:00AM-Parade,  and no shows
+[7641] Orange2: Attended  11:00AM-Parade,  and no shows
+[7688] Orange1: Attended  11:00AM-Parade,  and no shows
+[7778] Blue21: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7823] Blue19: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7868] Blue18: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7913] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7954] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8042] Blue20: Attended  11:00AM-Parade,  1:00PM-Parade,  and  11:45PM-Show, 
+[8089] Blue22: Attended  11:00AM-Parade,  1:00PM-Parade,  and  11:45PM-Show, 
+[8930] Orange14: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[8972] Orange11: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9013] Orange10: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9058] Orange7: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9101] Orange9: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9146] Orange12: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9187] Orange13: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[7692] Orange12: Attended  11:00AM-Parade,  and no shows
+[7772] Orange14: Attended  11:00AM-Parade,  and no shows
+[7856] Orange11: Attended  11:00AM-Parade,  and no shows
+[7937] Orange7: Attended  11:00AM-Parade,  and no shows
+[8022] Orange9: Attended  11:00AM-Parade,  and no shows
+[8107] Orange10: Attended  11:00AM-Parade,  and no shows
+[8190] Orange8: Attended  11:00AM-Parade,  and no shows
+[8275] Orange6: Attended  11:00AM-Parade,  and no shows
+[8360] Orange5: Attended  11:00AM-Parade,  and no shows
+[8445] Orange4: Attended  11:00AM-Parade,  and no shows
+[8528] Orange3: Attended  11:00AM-Parade,  and no shows
+[8609] Orange2: Attended  11:00AM-Parade,  and no shows
+[8693] Orange1: Attended  11:00AM-Parade,  and no shows
+[8927] Blue21: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[9008] Orange16: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9093] Blue17: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9174] Blue19: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9256] Orange13: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9341] Orange15: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9426] Blue18: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9508] Blue22: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[9508] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[9508] Blue20: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9508] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[7091] Orange16: Attended  11:00AM-Parade,  and no shows
+[7443] Orange15: Attended  11:00AM-Parade,  and no shows
+[7494] Orange8: Attended  11:00AM-Parade,  and no shows
+[7544] Orange4: Attended  11:00AM-Parade,  and no shows
+[7595] Orange7: Attended  11:00AM-Parade,  and no shows
+[7643] Orange6: Attended  11:00AM-Parade,  and no shows
+[7691] Orange5: Attended  11:00AM-Parade,  and no shows
+[7739] Orange3: Attended  11:00AM-Parade,  and no shows
+[7793] Orange2: Attended  11:00AM-Parade,  and no shows
+[7843] Orange1: Attended  11:00AM-Parade,  and no shows
+[7994] Blue21: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8649] Orange12: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show, 
+[8698] Orange14: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show, 
+[8746] Orange13: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show, 
+[8795] Orange10: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show, 
+[8889] Blue18: Attended  11:00AM-Parade,  2:00PM-Parade,  and  11:45PM-Show, 
+[8937] Orange9: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[8990] Orange11: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9041] Blue17: Attended  11:00AM-Parade,  2:00PM-Parade,  and  1:15PM-Show,  2:45PM-Show, 
+[9089] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show,  2:45PM-Show, 
+[9137] Blue22: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show,  2:45PM-Show, 
+[9188] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show,  2:45PM-Show, 
+[9238] Blue19: Attended  11:00AM-Parade,  2:00PM-Parade,  and  11:45PM-Show, 
+[9238] Blue20: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show,  2:45PM-Show, 
+[7488] Orange11: Attended  11:00AM-Parade,  and no shows
+[7548] Orange10: Attended  11:00AM-Parade,  and no shows
+[7613] Orange9: Attended  11:00AM-Parade,  and no shows
+[7678] Orange8: Attended  11:00AM-Parade,  and no shows
+[7741] Orange1: Attended  11:00AM-Parade,  and no shows
+[7806] Orange7: Attended  11:00AM-Parade,  and no shows
+[7870] Orange6: Attended  11:00AM-Parade,  and no shows
+[7934] Orange3: Attended  11:00AM-Parade,  and no shows
+[7997] Orange2: Attended  11:00AM-Parade,  and no shows
+[8057] Orange5: Attended  11:00AM-Parade,  and no shows
+[8120] Orange4: Attended  11:00AM-Parade,  and no shows
+[8248] Blue20: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8309] Blue21: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8369] Blue22: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8430] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8496] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8616] Blue19: Attended  11:00AM-Parade,  2:00PM-Parade,  and  11:45PM-Show, 
+[8921] Blue17: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[8981] Orange14: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9042] Orange13: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9104] Orange12: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9167] Orange16: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9229] Orange15: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9291] Blue18: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[7099] Orange15: Attended  11:00AM-Parade,  and no shows
+[7534] Orange10: Attended  11:00AM-Parade,  and no shows
+[7590] Orange8: Attended  11:00AM-Parade,  and no shows
+[7642] Orange7: Attended  11:00AM-Parade,  and no shows
+[7694] Orange6: Attended  11:00AM-Parade,  and no shows
+[7747] Orange5: Attended  11:00AM-Parade,  and no shows
+[7798] Orange4: Attended  11:00AM-Parade,  and no shows
+[7856] Orange3: Attended  11:00AM-Parade,  and no shows
+[7908] Orange2: Attended  11:00AM-Parade,  and no shows
+[7965] Orange1: Attended  11:00AM-Parade,  and no shows
+[8078] Blue19: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8134] Blue20: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8188] Blue21: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8244] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8298] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8355] Blue22: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[8514] Blue18: Attended  11:00AM-Parade,  2:00PM-Parade,  and  11:45PM-Show, 
+[8956] Blue17: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9009] Orange16: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9066] Orange9: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9118] Orange14: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9172] Orange12: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9228] Orange11: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[9285] Orange13: Attended  11:00AM-Parade,  and  2:45PM-Show, 
+[7702] Orange13: Attended  11:00AM-Parade,  and no shows
+[7791] Orange14: Attended  11:00AM-Parade,  and no shows
+[7877] Orange10: Attended  11:00AM-Parade,  and no shows
+[7966] Orange12: Attended  11:00AM-Parade,  and no shows
+[8055] Orange9: Attended  11:00AM-Parade,  and no shows
+[8143] Orange8: Attended  11:00AM-Parade,  and no shows
+[8228] Orange7: Attended  11:00AM-Parade,  and no shows
+[8317] Orange6: Attended  11:00AM-Parade,  and no shows
+[8403] Orange5: Attended  11:00AM-Parade,  and no shows
+[8492] Orange4: Attended  11:00AM-Parade,  and no shows
+[8578] Orange1: Attended  11:00AM-Parade,  and no shows
+[8662] Orange3: Attended  11:00AM-Parade,  and no shows
+[8751] Orange2: Attended  11:00AM-Parade,  and no shows
+[8927] Blue17: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[9017] Blue22: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[9103] Blue23: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[9192] Blue24: Attended  11:00AM-Parade,  12:00PM-Parade,  and  11:45PM-Show, 
+[14453] Orange15: Attended  11:00AM-Parade,  and  11:45PM-Show, 
+[14540] Orange11: Attended  11:00AM-Parade,  and  11:45PM-Show, 
+[14629] Blue21: Attended  11:00AM-Parade,  and  11:45PM-Show, 
+[14718] Blue20: Attended  11:00AM-Parade,  and  11:45PM-Show, 
+[14805] Blue18: Attended  11:00AM-Parade,  and  11:45PM-Show, 
+[14889] Orange16: Attended  11:00AM-Parade,  and  11:45PM-Show, 
+[14974] Blue19: Attended  11:00AM-Parade,  and  11:45PM-Show, 
