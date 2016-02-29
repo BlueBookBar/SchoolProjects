@@ -1,2 +1,2 @@
 # SchoolProjects
-School projects 
+FIles include .cpp, .java, and .py files. 
